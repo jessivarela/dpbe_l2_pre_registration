@@ -29,7 +29,9 @@
 **List specific, concise, and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. If a specific interaction or moderation is important to your research, you can list that as a separate hypothesis.**
 
 
+-  Bilingual listeners perceptually adjust to changes in pronunciation across languages based on their conceptual understanding of which language they are currently hearing (non-directional)
 
+- There are two phonemic systems in bilinguals' minds (non-directional)
 
 
 
@@ -108,6 +110,8 @@ belong to. All participants, however, will be exposed to all stimuli.
 
 **Please describe the process by which you will collect your data. If you are using human subjects, this should include the population from which you obtain subjects, recruitment efforts, payment for participation, how subjects will be selected for eligibility from the initial pool (e.g. inclusion and exclusion rules), and your study timeline. For studies that don't include human subjects, include information about how you will collect samples, duration of data gathering efforts, source or location of samples, or batch numbers you will use.**
 
+One hundred and twenty participants will be recruited for this study. While bilingual participants will be undergraduate and graduate students at Rutgers University, monolingual participants will be college students at a Latin American or Spanish university. Participants will be divided in four groups: thirty simultaneous Spanish-English bilinguals, thirty intermediate English second language learners of Spanish, thirty advanced English second language learners of Spanish, and thirty Spanish monolingual participants. The first three groups os participants will receive either extra credit or monetary compensation for their voluntary participation in this study. 
+The data collection period will last for roughly three weeks, beginning March 25th, 2019.
 
 
 
