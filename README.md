@@ -21,7 +21,7 @@
 
 **(The description should be no longer than the length of an abstract. It can give some context for the proposed study, but great detail is not needed here for your preregistration.)**
 
-
+Research has been done to determine if Spanish-English bilinguals are able to shift their voicing perception across aural controlled language contexts that are cued conceptually and perceptually (Gonzales & Lotto, 2013). An extension of that study was conducted by Gonzalez et al. (2017) where the researchers cued the language context only conceptually while using both Spanish-English bilinguals and French-English bilinguals and demonstrated that with only conceptual knowledge, bilinguals were still able to adjust their voicing perception. Casillas & Simonet (2018) conducted a study replicating the Gonzales and Lotto (2013) study through its methodology, where the cue for the language mode was done through an auditory stimuli perceptually . In that study, the researchers analyzed the double phonemic boundary effect in early and late bilinguals using a stimulus induced language mode that showed that early bilinguals, but not the lower proficient learners had effect of a double phonemic boundary. For the present study we will be analyzing the doouble phonemic boundary effect using Spanish-English early and late bilinguals with a context conceptually induced language mode. 
 
 
 ### Hypotheses (required)
@@ -72,6 +72,7 @@ belong to. All participants, however, will be exposed to all stimuli.
 
 **Describe your study design. Examples include two-group, factorial, randomized block, and repeated measures. Is it a between (unpaired), within-subject (paired), or mixed design? Describe any counterbalancing required. Typical study designs for observation studies include cohort, cross sectional, and case-control studies.**
 
+The present study will be a within-subject study. 
 
 
 ### Randomization (optional)
@@ -164,8 +165,6 @@ The data collection period will last for roughly three weeks, beginning March 25
 
 
 
-
-
 ## Analysis Plan
 
 ### Statistical models (required)
@@ -218,5 +217,11 @@ Each participant's identification reponses will be fitted to a binary logisitic 
 
 **If there is any additional information that you feel needs to be included in your preregistration, please enter it here. Literature cited, disclosures of any related work such as replications or work that uses the same data, or other context that will be helpful for future readers would be appropriate here.**
 
+**Literature cited**
 
+Casillas, J. V. and M. Simonet (2018). “Perceptual categorization and bilingual language modes: Assessing the double phonemic boundary in early and late bilinguals”. In: Journal of Phonetics 71, pp. 51–64.
+
+Gonzales, K. and A. J. Lotto (2013). “A bafri, un pafri: Bilinguals’ pseudoword identifications support language-specific phonetic systems”. In: Psychological science 24.11, pp. 2135–2142.
+
+Gonzales, K, K. Byers-Heinlein and A. Lotto (2019). “How bilinguals perceive speech depends on which language they think they’re hearing”. In: Cognition 182, pp. 318–330.
 
