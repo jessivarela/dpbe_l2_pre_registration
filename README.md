@@ -5,7 +5,6 @@
 
 ### Title (required)
 
-**Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.**
 How bilinguals perceive speech depends on which language they think they're hearing: A replication study
 
 
@@ -13,20 +12,10 @@ How bilinguals perceive speech depends on which language they think they're hear
 
 ### Description (optional)
 
-**Please give a brief description of your study, including some background, the purpose of the study, or broad research questions.**
-
-**Ex.**  
-
-**Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry.**
-
-**(The description should be no longer than the length of an abstract. It can give some context for the proposed study, but great detail is not needed here for your preregistration.)**
-
 Research has been done to determine if Spanish-English bilinguals are able to shift their voicing perception across aural controlled language contexts that are cued conceptually and perceptually (Gonzales & Lotto, 2013). An extension of that study was conducted by Gonzalez et al. (2017) where the researchers cued the language context only conceptually while using both Spanish-English bilinguals and French-English bilinguals and demonstrated that with only conceptual knowledge, bilinguals were still able to adjust their voicing perception. Casillas & Simonet (2018) conducted a study replicating the Gonzales and Lotto (2013) study through its methodology, where the cue for the language mode was done through an auditory stimuli perceptually . In that study, the researchers analyzed the double phonemic boundary effect in early and late bilinguals using a stimulus induced language mode that showed that early bilinguals, but not the lower proficient learners had effect of a double phonemic boundary. For the present study we will be analyzing the double phonemic boundary effect using Spanish-English early and late bilinguals with a context conceptually induced language mode. 
 
 
 ### Hypotheses (required)
-
-**List specific, concise, and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. If a specific interaction or moderation is important to your research, you can list that as a separate hypothesis.**
 
 
 -  Bilingual listeners perceptually adjust to changes in pronunciation across languages based on their conceptual understanding of which language they are currently hearing (non-directional)
@@ -41,19 +30,14 @@ Research has been done to determine if Spanish-English bilinguals are able to sh
 
 ### Study type (required)
 
-**Please check one of the following statements**
-
 - Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
-- Observational Study - Data is collected from study subjects that are not randomly assigned to a treatment. This includes surveys, “natural experiments,” and regression discontinuity designs.
-- Meta-Analysis - A systematic review of published studies.
-- Other
+
 
 
 
 
 ### Blinding (required)
 
-**Blinding describes who is aware of the experimental manipulations within a study. Mark all that apply.**
 
 -The experiment is a single blind study. None of the participants know which group they 
 belong to. All participants, however, will be exposed to all stimuli. 
@@ -64,7 +48,7 @@ belong to. All participants, however, will be exposed to all stimuli.
 
 ### Is there any additional blinding in this study? (optional)
 
-**Add information here**
+No
 
 
 
@@ -77,8 +61,7 @@ The present study will be a within-subject study.
 
 ### Randomization (optional)
 
-**If you are doing a randomized study, how will you randomize, and at what level?**
-
+The participants will be randomly assigned to groups. There will be randomization in the order that they complete the tasks. 
 
 
 
@@ -89,13 +72,8 @@ The present study will be a within-subject study.
 
 ### Existing Data (required)
 
-**Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. Please select the description that best describes your situation. Please see https://cos.io/prereg for more information.**
 
 - Registration prior to creation of data 
-- Registration prior to any human observation of the data 
-- Registration prior to accessing the data 
-- Registration prior to analysis of the data 
-- Registration following analysis of the data 
 
 
 
@@ -109,7 +87,6 @@ The present study will be a within-subject study.
 
 ### Data collection procedures (required)
 
-**Please describe the process by which you will collect your data. If you are using human subjects, this should include the population from which you obtain subjects, recruitment efforts, payment for participation, how subjects will be selected for eligibility from the initial pool (e.g. inclusion and exclusion rules), and your study timeline. For studies that don't include human subjects, include information about how you will collect samples, duration of data gathering efforts, source or location of samples, or batch numbers you will use.**
 
 One hundred and twenty participants will be recruited for this study. While bilingual participants will be undergraduate and graduate students at Rutgers University, monolingual participants will be college students at a Latin American or Spanish university. Participants will be divided in four groups: thirty simultaneous Spanish-English bilinguals, thirty intermediate English second language learners of Spanish, thirty advanced English second language learners of Spanish, and thirty Spanish monolingual participants. The first three groups os participants will receive either extra credit or monetary compensation for their voluntary participation in this study. 
 The data collection period will last for roughly three weeks, beginning March 25th, 2019.
