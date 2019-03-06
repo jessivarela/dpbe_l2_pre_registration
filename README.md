@@ -124,7 +124,6 @@ The data collection period will last for roughly three weeks, beginning March 25
 **Describe all variables you plan to manipulate and the levels or treatment arms of each variable. This is not applicable to any observational study.**
 
 - resynthesized acoustic continua of bafri-pafri, where we will manipulate the VOTs of the /b/ and /p/ sounds.
-- 
 
 
 
