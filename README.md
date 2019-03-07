@@ -31,6 +31,8 @@ We hypothesize that the present study will replicate earlier findings demonstrat
 
 - If this hypothesis is not rejected by our data, more evidence will be provided to support the existence of some separation between the phonemic systems in bilinguals' minds (non-directional)  
 
+- Second language learners with higher proficiency levels will be more likely to display the double phonemic boundary effect than the less proficient learners (directional)
+
 
 ## Design Plan
 
@@ -49,7 +51,7 @@ belong to. All participants, however, will be exposed to all stimuli.
 
 ### Study design (required)
 
-The present study will be a within-subject study, since all of the participants will complete the task in English and Spanish mode. 
+Participants will have to complete a forced-choice task in wich they will be asked to categorize a /b/-/p/ acoustic continuum. The present study will be a within-subject study, since all of the participants will complete the task in English and Spanish mode. 
 
 
 ### Randomization (optional)
