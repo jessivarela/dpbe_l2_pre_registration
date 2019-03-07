@@ -95,14 +95,14 @@ The data collection period will last for roughly three weeks, beginning March 25
 
 ### Sample size (required)
 
-**Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis?**
 
 -The sample pool of participants will be around 120 second language learners at Rutgers University. All participants will have learned Spanish as a second language after the age of 13. 
 
 
 ### Sample size rationale (optional)
 
-**This could include a power analysis or an arbitrary constraint such as time, money, or personnel.**
+
+We are collecting around 120 second language learners to have a normal distribution of  proficiency levels.
 
 
 
@@ -148,6 +148,7 @@ The data collection period will last for roughly three weeks, beginning March 25
 ### Statistical models (required)
 
 **What statistical model will you use to test each hypothesis? Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions, subgroup analyses, pairwise or complex contrasts, or follow-up tests from omnibus tests. If you plan on using any positive controls, negative controls, or manipulation checks you may mention that here. Remember that any test not included here must be noted as an exploratory test in your final article.**
+
 Each participant's identification reponses will be fitted to a binary logisitic regression model. This model will be used to predict the probability of participant response along the VOT continuum. 
 
 
