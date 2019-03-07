@@ -64,7 +64,6 @@ No
 
 ### Study design (required)
 
-**Describe your study design. Examples include two-group, factorial, randomized block, and repeated measures. Is it a between (unpaired), within-subject (paired), or mixed design? Describe any counterbalancing required. Typical study designs for observation studies include cohort, cross sectional, and case-control studies.**
 
 The present study will be a within-subject study. 
 
