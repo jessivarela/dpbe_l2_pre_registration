@@ -15,10 +15,20 @@ How bilinguals perceive speech depends on which language they think they're hear
 Research has been done to determine if bilinguals, in Spanish and English, are able to shift their voicing perception across aural controlled language contexts that are cued conceptually and perceptually (Gonzales & Lotto, 2013). An extension of that study was conducted by Gonzalez et al. (2017) where the researchers cued the language context only conceptually, while using both Spanish-English bilinguals and French-English bilinguals and demonstrated that with only conceptual knowledge, bilinguals were still able to adjust their voicing perception. Casillas & Simonet (2018) conducted a study replicating the Gonzales and Lotto (2013) study specifically through its methodology, where the cue for the language mode was conducted perceptually through an auditory stimuli. In that study, the researchers analyzed the double phonemic boundary effect in early and late bilinguals using a stimulus induced language mode that showed that early bilinguals, but not the lower proficient learners had effect of a double phonemic boundary. For the present study we will be analyzing the double phonemic boundary effect using Spanish-English early and late bilinguals with a context conceptually induced language mode. 
 
 
+### Research questions (shouldn't we include them as well???)
+
+Evidence suggests that late second-language learners of Spanish are able to display language-specific perceptual boundaries (Casillas & Simonet 2018) and that early Spanish-English bilinguals adjust their identification boundary based on conceptual knowledge of the language context (Gonzales et al 2019).  
+
+This study aims to address the following main research question: Are late second-language learners of different proficiency levels able to adjust their speech perception using only conceptual cues in the same way as early bilinguals?
+
+
 ### Hypotheses (required)
 
+We hypothesize that the present study will replicate earlier findings demonstrating that:  
 
--  Bilingual listeners perceptually adjust to changes in pronunciation across languages based on their conceptual understanding of which language they are currently hearing (non-directional)
+-  Bilingual listeners perceptually adjust to changes in pronunciation across languages based on their conceptual understanding of which language they are currently hearing (non-directional)  
+
+If this hypothesis is supported by our data, more evidence will be provided to state that:  
 
 - There are two phonemic systems in bilinguals' minds (non-directional)
 
@@ -88,7 +98,7 @@ The participants will be randomly assigned to groups. There will be randomizatio
 ### Data collection procedures (required)
 
 
-One hundred and twenty participants will be recruited for this study. While bilingual participants will be undergraduate and graduate students at Rutgers University, monolingual participants will be college students at a Latin American or Spanish university. Participants will be divided in four groups: thirty simultaneous Spanish-English bilinguals, thirty intermediate English second language learners of Spanish, thirty advanced English second language learners of Spanish, and thirty Spanish monolingual participants. The first three groups os participants will receive either extra credit or monetary compensation for their voluntary participation in this study. 
+One hundred and twenty participants will be recruited for this study. While bilingual participants will be undergraduate and graduate students at Rutgers University, monolingual participants will be college students at a Latin American or Spanish university. Participants will be divided in four groups: thirty simultaneous Spanish-English bilinguals, thirty intermediate English second language learners of Spanish, thirty advanced English second language learners of Spanish, and thirty Spanish monolingual participants. The first three groups of participants will receive either extra credit or monetary compensation for their voluntary participation in this study. 
 The data collection period will last for roughly three weeks, beginning March 25th, 2019.
 
 
@@ -123,8 +133,9 @@ We are collecting around 120 second language learners to have a normal distribut
 
 **Describe all variables you plan to manipulate and the levels or treatment arms of each variable. This is not applicable to any observational study.**
 
-- resynthesized acoustic continua of bafri-pafri, where we will manipulate the VOTs of the /b/ and /p/ sounds.
+- resynthesized acoustic continua of bafri-pafri, where we will manipulate the VOTs of the /b/ and /p/ sounds.  
 
+- language context (English or Spanish)
 
 
 ### Measured variables (required)
@@ -147,10 +158,17 @@ We are collecting around 120 second language learners to have a normal distribut
 
 ### Statistical models (required)
 
+<<<<<<< HEAD
 **What statistical model will you use to test each hypothesis? Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions, subgroup analyses, pairwise or complex contrasts, or follow-up tests from omnibus tests. If you plan on using any positive controls, negative controls, or manipulation checks you may mention that here. Remember that any test not included here must be noted as an exploratory test in your final article.**
 
 Each participant's identification reponses will be fitted to a binary logisitic regression model. This model will be used to predict the probability of participant response along the VOT continuum. 
+=======
+**What statistical model will you use to test each hypothesis? Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions, subgroup analyses, pairwise or complex contrasts, or follow-up tests from omnibus tests. If you plan on using any positive controls, negative controls, or manipulation checks you may mention that here. Remember that any test not included here must be noted as an exploratory test in your final article.**  
 
+Each participant's identification reponses will be fitted to a binary logisitic regression model (see Gonzales et al 2019). This model will be used to predict the probability of participant response along the VOT continuum.  
+>>>>>>> c54e0f1134505e14a95a32a209e9afecb765036f
+
+We will analyze perceptual responses of L2 learners separately, depending on their proficiency level (beginners, intermediates and advanced) to see whether all of these groups display a main effect of language context or not.  
 
 
 ### Transformations (optional)
